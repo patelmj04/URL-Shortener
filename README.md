@@ -2,7 +2,10 @@
 
 A lightweight web application for shortening long URLs built with Python Flask and HTML.
 
-![Demo Screenshot](/screenshots/app-screenshot.png) <!-- Add your actual screenshot path -->
+![image](https://github.com/user-attachments/assets/450ec876-5c1a-432d-bf01-7bbaffe47b03)
+
+**![image](https://github.com/user-attachments/assets/15dfd9ba-07fd-4fa5-8865-bc915c5b4b0d)
+**
 
 ## Features ✨
 - Shorten long URLs into compact, shareable links
@@ -14,12 +17,10 @@ A lightweight web application for shortening long URLs built with Python Flask a
 ## Technologies Used 🛠️
 - **Backend**: Python Flask
 - **Frontend**: HTML, CSS
-- **Database**: SQLite (or mention your database)
-- **Deployment**: (Add if deployed, e.g., Heroku, PythonAnywhere)
 
 ## Installation 🚀
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/patelmj04/url-shortener.git
    cd url-shortener
