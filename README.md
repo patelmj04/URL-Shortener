@@ -4,6 +4,7 @@ A lightweight web application for shortening long URLs built with Python Flask a
 
 ![image](https://github.com/user-attachments/assets/92153c05-4bf7-44fb-b161-2299c7ee552b)
 
+
 ![image](https://github.com/user-attachments/assets/15dfd9ba-07fd-4fa5-8865-bc915c5b4b0d)
 
 ## Features ✨
