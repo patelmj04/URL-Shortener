@@ -11,7 +11,7 @@ A lightweight web application for shortening long URLs built with Python Flask a
 - Redirect users seamlessly from short URLs to original URLs
 - Simple web interface with form validation
 - Error handling for invalid/malformed URLs
-- Responsive design for mobile and desktop
+- Responsive design for mobile and desktops
 
 ## Technologies Used 🛠️
 - **Backend**: Python Flask
