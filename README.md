@@ -17,7 +17,7 @@ A lightweight web application for shortening long URLs built with Python Flask a
 - **Backend**: Python Flask
 - **Frontend**: HTML, CSS
 
-## Installation 🚀
+## Installation (easy)
 
 1. **Clone the repository**
    ```bash
